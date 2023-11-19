@@ -1,0 +1,8 @@
+.btn-action img{
+    pointer-events: none;
+}
+
+.task-title--done{
+    text-decoration: line-through;
+	text-decoration-color:grey;
+}
